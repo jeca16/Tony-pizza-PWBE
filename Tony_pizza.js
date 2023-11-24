@@ -172,57 +172,53 @@ var produtos ={
 
     bebidas: [
         {
-            nome: '',
-            preco: '',
-            descricao: '',
-            categoria: '',
+            nome: 'coca-cola 2l',
+            preco: 'R$14,99',
+            descricao: 'refrigerante garrafa 2l',
+            categoria: categorias [1],
             imagem: '',
         },
 
         {
-            nome: '',
-            preco: '',
-            descricao: '',
-            categoria: '',
+            nome: 'cerveja heineken',
+            preco: 'R$17,99',
+            descricao: 'cerveja heineken',
+            categoria: categorias[1],
             imagem: '',
         },
 
         {
-            nome: '',
-            preco: '',
-            descricao: '',
-            categoria: '',
+            nome: 'fanta laranja',
+            preco: 'R$15,00',
+            descricao: 'refrigerante garrafa de 2l',
+            categoria: categorias[1],
             imagem: '',
-            avaliacao: '',
         },
 
         {
-            nome: '',
-            preco: '',
-            descricao: '',
-            categoria: '',
+            nome: 'Guaraná',
+            preco: 'R$15,00',
+            descricao: 'refrigerante garrafa 2l',
+            categoria: categorias[1],
             imagem: '',
-            avaliacao: '',
         },
 
         {
-            nome: '',
-            preco: '',
-            descricao: '',
-            categoria: '',
+            nome: 'coca-cola zero',
+            preco: 'R$15,00',
+            descricao: 'refrigerante garrafa zero 2l',
+            categoria: categorias[1],
             imagem: '',
-            avaliacao: '',
         },
     ],
 
-    fruta: [
+    pizzafruta: [
         {
             nome: '',
             preco: '',
             descricao: '',
             categoria: '',
             imagem: '',
-            avaliacao: '',
         },
         
         {
@@ -231,7 +227,6 @@ var produtos ={
             descricao: '',
             categoria: '',
             imagem: '',
-            avaliacao: '',
         },
         
         {
@@ -240,7 +235,6 @@ var produtos ={
             descricao: '',
             categoria: '',
             imagem: '',
-            avaliacao: '',
         },
         
         {
@@ -249,7 +243,6 @@ var produtos ={
             descricao: '',
             categoria: '',
             imagem: '',
-            avaliacao: '',
         },
     ],
 
